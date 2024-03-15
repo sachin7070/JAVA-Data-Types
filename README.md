@@ -102,7 +102,7 @@ The instanceof operator is used to test whether an object is an instance of a pa
 
 Example:
 
-java
-Copy code
+```java
 String str = "Hello";
 boolean isString = str instanceof String; // true
+```
